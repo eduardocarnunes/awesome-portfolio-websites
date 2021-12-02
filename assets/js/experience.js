@@ -6,25 +6,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Machine Learning Researcher",
+    cardImage: "assets/images/experience-page/ccg.png",
+    place: "Center for Computer Graphics, Portugal",
+    time: "(June, 2020 - January, 2021)",
+    desp: "<li>Developed Machine Learning and Deep Learning Models for Audio Anomaly Detection.</li><li>Results: Publications at conferences.</li><li>Topics: Deep Learning; Unsupervised Learning; Anomaly Audio Detection; Clustering</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Junior Researcher",
+    cardImage: "assets/images/experience-page/utfpr.jpg",
+    place: "Federal Technological University of Paraná, Brazil",
+    time: "(Aug, 2016 - Aug, 2018)",
+    desp: "<li>Designed and developed studies related to the usability of an application/software using the eye tracker tool.</li><li>Results: Publications at conferences.</li><li>Topics: Image Processing; HCI; Programming; Research</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Summer Scholarship",
+    cardImage: "assets/images/experience-page/cnpem_2.jpg",
+    place: "Brazilian Center for Research in Energy and Materials, Brazil",
+    time: "(Jan, 2019 - Mar, 2019)",
+    desp:"<li>Created a tool to measure the level of sugarcane bagasse in real-time.</li><li>Result: github.com/eduardocarnunes/level-or-volume-sugarcane-bagasse</li><li>Prize Project in Portugal: 3rd place in the i4.0@TMAD competition with a value of € 3,000.</li><li> Topics: Image Processing; Computer Vision</li>",
   },
 ];
 
