@@ -6,6 +6,20 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Research Technician Artificial Intelligence",
+    cardImage: "assets/images/experience-page/more.jpg",
+    place: "MORE - Mountains of Research Collaborative Laboratory, Portugal",
+    time: "(November, 2021 - Current)",
+    desp: "<li>Responsible for managing, implementing, and executing projects involving artificial intelligence.</li><li>Topics: MLOps; Management Artificial Intelligence</li>",
+  },
+  {
+    title: "Machine Learning Engineer",
+    cardImage: "assets/images/experience-page/TWA.jpg",
+    place: "TagusWorld Analytics, Portugal",
+    time: "(April, 2019 - May, 2020 | January 2021 - November 2021 )",
+    desp: "<li>Researching, building, and designing self-running artificial intelligence systems to automate predictive models.</li><li>Results: Optimization of existing projects in the company.</li><li>Topics: Deep Learning; Computer Vision; Natural Language Processing</li>",
+  },
+  {
     title: "Machine Learning Researcher",
     cardImage: "assets/images/experience-page/ccg.png",
     place: "Center for Computer Graphics, Portugal",
