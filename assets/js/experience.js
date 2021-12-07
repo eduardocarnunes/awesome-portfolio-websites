@@ -25,21 +25,29 @@ const exp = [
     place: "Center for Computer Graphics, Portugal",
     time: "(June, 2020 - January, 2021)",
     desp: "<li>Developed Machine Learning and Deep Learning Models for Audio Anomaly Detection.</li><li>Results: Publications at conferences.</li><li>Topics: Deep Learning; Unsupervised Learning; Anomaly Audio Detection; Clustering</li>",
-  },
+  },  
   {
-    title: "Junior Researcher",
-    cardImage: "assets/images/experience-page/utfpr.jpg",
-    place: "Federal Technological University of Paraná, Brazil",
-    time: "(Aug, 2016 - Aug, 2018)",
-    desp: "<li>Designed and developed studies related to the usability of an application/software using the eye tracker tool.</li><li>Results: Publications at conferences.</li><li>Topics: Image Processing; HCI; Programming; Research</li>",
+    title: "Co-Founder & CTO",
+    cardImage: "assets/images/experience-page/seas.jpg",
+    place: "SEAS Agro - Smart Agriculture, Brazil",
+    time: "(September, 2017 - April, 2019)",
+    desp: "<li>SEAS Agro is a startup that aims to solve small and medium farmers with crop monitoring.</li><li>Responsible for creating the company, building the product, and representing the company at startup events.</li><li>Results: 3rd place winner as the best solution at the Demoday Agroleite 2018 event in Castro, Paraná, Brazil.</li><li>Topics: Startup; Smart Agriculture; IoT</li>",
   },
   {
     title: "Summer Scholarship",
     cardImage: "assets/images/experience-page/cnpem_2.jpg",
     place: "Brazilian Center for Research in Energy and Materials, Brazil",
-    time: "(Jan, 2019 - Mar, 2019)",
+    time: "(January, 2019 - March, 2019)",
     desp:"<li>Created a tool to measure the level of sugarcane bagasse in real-time.</li><li>Result: github.com/eduardocarnunes/level-or-volume-sugarcane-bagasse</li><li>Prize Project in Portugal: 3rd place in the i4.0@TMAD competition with a value of € 3,000.</li><li> Topics: Image Processing; Computer Vision</li>",
   },
+  {
+    title: "Junior Researcher",
+    cardImage: "assets/images/experience-page/utfpr.jpg",
+    place: "Federal Technological University of Paraná, Brazil",
+    time: "(August, 2016 - August, 2018)",
+    desp: "<li>Designed and developed studies related to the usability of an application/software using the eye tracker tool.</li><li>Results: Publications at conferences.</li><li>Topics: Image Processing; HCI; Programming; Research</li>",
+  },
+  
 ];
 
 const showCards2 = () => {
