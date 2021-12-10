@@ -5,23 +5,48 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Machine Learning Engineer Nanodegree",
+    cardImage: "assets/images/education-page/udacity.svg",
+    moocLink: "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "AWS Machine Learning Foundations Course",
+    cardImage: "assets/images/education-page/udacity.svg",
+    moocLink: "https://www.udacity.com/course/aws-machine-learning-foundations--ud065",
   },
   {
-    title: "Machine Learning",
+    title: "Intro to Machine Learning",
+    cardImage: "assets/images/education-page/udacity.svg",
+    moocLink: "https://www.udacity.com/course/intro-to-machine-learning--ud120",
+  },
+  {
+    title: "Intro to Data Analysis",
+    cardImage: "assets/images/education-page/udacity.svg",
+    moocLink: "https://www.udacity.com/course/intro-to-data-analysis--ud170",
+  },
+  {
+    title: "Deep Learning",
+    cardImage: "assets/images/education-page/udacity.svg",
+    moocLink: "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+  },
+  {
+    title: "Fundamentals of Scalable Data Science",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://www.coursera.org/learn/ds?specialization=advanced-data-science-ibm",
+  },
+  {
+    title: "Advanced Machine Learning and Signal Processing",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/learn/advanced-machine-learning-signal-processing?specialization=advanced-data-science-ibm",
+  },
+  {
+    title: "Applied AI with DeepLearning",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/learn/ai?specialization=advanced-data-science-ibm",
   },
   {
     title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/iaexpert-logo-1.jpg",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
