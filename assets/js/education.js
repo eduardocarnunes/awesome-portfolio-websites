@@ -51,7 +51,7 @@ const moocscards = [
   },
   {
     title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/iaexpert_dark.svg",
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
