@@ -43,52 +43,74 @@ const moocscards = [
     title: "Applied AI with DeepLearning",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/learn/ai?specialization=advanced-data-science-ibm",
-  },
+  },  
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/iiaexpert_2.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
+    title: "Object Detection with YOLO, Darknet, OpenCV and Python",
     cardImage: "assets/images/education-page/iaexpert_dark.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://iaexpert.academy/courses/deteccao-de-objetos-com-yolo-darknet-opencv-e-python/",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Text Summarization with Natural Language Processing",
+    cardImage: "assets/images/education-page/iaexpert_dark.svg",
+    moocLink: "https://iaexpert.academy/courses/sumarizacao-de-textos-com-processamento-de-linguagem-natural/",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    title: "Text Recognition with OCR and Python",
+    cardImage: "assets/images/education-page/iaexpert_dark.svg",
+    moocLink: "https://iaexpert.academy/courses/reconhecimento-de-textos-com-ocr-e-python/",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    title: "Genetic Algorithms in Python",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/algoritmos-geneticos-em-python/",
   },
   {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    title: "Developer Docker (with Docker Swarm and Kubernetes)",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/",
   },
   {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    title: "Deep Learning with Python from A to Z - The Complete Course",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/deep-learning-com-python-az-curso-completo/",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "Python for Data Science and Machine Learning",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/python-para-data-science-e-machine-learning/",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Artificial Intelligence: Optimization Algorithms in Python",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/algoritmos-de-otimizacao-em-python/",
   },
+  {
+    title: "REST APIs with Python and Flask",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/rest-apis-com-python-e-flask/",
+  },
+  {
+    title: "Master Computer Vision™ OpenCV4 in Python with Deep Learning",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/",
+  },
+  {
+    title: "Face and Object Recognition with Python and Dlib",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/reconhecimento-de-faces-e-de-objetos-com-python-e-dlib/",
+  },
+  {
+    title: "Reinforcement Learning with Deep Learning, PyTorch and Python",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/aprendizagem-reforco-deep-learning-pytorch-python/",
+  },
+  {
+    title: "Smart Search Algorithms with Python",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/algoritmos-inteligentes-de-busca-com-python/",
+  },
+
+
 ];
 
 const experience = [
